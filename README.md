@@ -1,1 +1,5 @@
-# A.Aguilar30
+-Olá sejam bem vindos ao meu perfil :(
+-Me chamo Alexandre Aguilar
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
